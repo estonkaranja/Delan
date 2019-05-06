@@ -35,9 +35,12 @@ Be able to enjoy our own services in the same platform that is fast and aquitic 
  ---
  
  #### Contact information:
- You can find me in github.com  <a href="https://estonkaranja/github.com/Delan.git">
+ You can find me in github.com  **"https://estonkaranja/github.com/Delan.git"**
  
  ---
  
  ####License used:
+ 
  **MIT LICENSE** is used.
+
+---
