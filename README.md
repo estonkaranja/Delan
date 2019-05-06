@@ -27,10 +27,10 @@ Be able to enjoy our own services in the same platform that is fast and aquitic 
 ---
 
 ## Tech used:
- *html.
- *css.
- *Scripts.
- *Bootstrap.
+ >**html.**
+ >**css.**
+ >**Scripts**.
+ >**Bootstrap**.
  
  ---
  
