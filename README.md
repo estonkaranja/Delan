@@ -27,19 +27,19 @@ Be able to enjoy our own services in the same platform that is fast and aquitic 
 ---
 
 ## Tech used:
- >**html.**
- >**css.**
- >**Scripts**.
- >**Bootstrap**.
+ >*html.*
+ >*css.*
+ >*Scripts*
+ >*Bootstrap*
  
  ---
  
  #### Contact information:
- >You can find me in github.com  <a href="https://estonkaranja/github.com/Delan.git/> </a>"
+ *You can find me in github.com  <a href="https://estonkaranja/github.com/Delan.git/> </a>"
  
  ---
  
- ####License used:
+ ### License used:
  
  **MIT LICENSE** is used.
 
